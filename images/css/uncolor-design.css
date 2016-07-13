@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper {
+	width:995px;
+	margin:0 auto;
+}
+#menu {
+	margin:10px 0 0 0;
+}
+#header {
+	margin:10px 0 0 0;
+}
+#content {
+	height:540px;
+	margin:10px 0 0 0;
+}
+#left {
+	width:725px;
+	height:540px;
+	margin:0 0 0 0;
+	float:left;
+}
+#right {
+	width:250px;
+	height:540px;
+	margin:0 0 0 0;
+	float:right;
+}
+.clear {
+	clear:both;
+}
+#footer {
+	height:30px;
+	margin:20px 0 0 0;
+	font:Arial, Helvetica, sans-serif;
+}
+.left {
+	height:30px;
+	margin:0 0 0 0;
+	float:left;
+	font-size:14px;
+}
+.right {
+	height:30px;
+	margin:0 0 0 0;
+	float:right;
+	font-size:12px;
+}

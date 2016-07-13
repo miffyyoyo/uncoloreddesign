@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* from tka*/
+#browsable .big-img {
+	width: 725px;
+}
+
+.scrollable .items {
+	margin-top: 3px;
+	margin-left: 2px;
+}
+
+.scrollable .items img {
+	float: left;
+	width: 138px;
+	padding: 1px;
+	background: #FFF;
+	margin: 2px 2px;
+}

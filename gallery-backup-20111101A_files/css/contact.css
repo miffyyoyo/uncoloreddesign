@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contact-left{width:725px;
+height:540px;
+background:#E5BF7C url(../images/contact-left.jpg) no-repeat top left;
+position:relative;
+}
+
+#contact-left .text{font:Arial, Helvetica, sans-serif;
+line-height:1.7em;
+font-size:16px;
+letter-spacing:.3em;}
+
+#mail{
+padding:50px 0 0 30px;}
+
+#mail p{
+margin: 5px;}
+
+#mail span{
+width:100px;
+float:left;}
+
+.button {
+padding:3px 10px;
+letter-spacing:.5em;
+margin:0 0 0 100px;
+border-radius:15px;
+}
+
+select,input,textarea {
+border: 1px solid #ccc;
+border-radius:5px;}
+
+#contact-right{
+width:250px;
+height:540px;
+background:#E5BF7C url(../images/contact-right-01.png) no-repeat top left;
+position:relative;}
+
+#contact-right .text{
+font:Arial, Helvetica, sans-serif;
+line-height:1.6em;
+font-size:15px;
+width:220px;
+text-align:justify;
+padding-left:15px;
+position:absolute;
+bottom:15px;}

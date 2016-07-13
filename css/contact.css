@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contact-left{width:725px;
+height:540px;
+background:#D7C798 url(../images/contact-right-01.png) no-repeat top left;
+position:relative;}
+
+#text{font:Arial, Helvetica, sans-serif;
+color:#000;
+line-height:1.6em;
+padding-left:50px;
+margin:16% auto;
+font-size:16px;
+position:absolute;}
+
+
+#contact-right{
+width:250px;
+height:540px;
+background:#E5BF7C url(../images/contact-right-01.jpg) no-repeat top left;
+position:relative;}
+
+
+

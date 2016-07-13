@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+#progress-left{
+width:725px;
+height:540px;
+background:#A7D4C0 url(../images/progress-left-01.png) no-repeat top left;
+position:relative;}
+
+#text{font:Arial, Helvetica, sans-serif;
+line-height:1.7em;
+font-size:14px;
+height:460px;
+bottom:15px;
+width:675px;
+overflow:auto;
+padding-left:50px;
+position:absolute;
+}
+
+h1{
+font-size:120%;
+}
+
+#progress-right{
+width:250px;
+height:540px;
+background:#D0D2D3 url(../images/progress-right-01.jpg) no-repeat top left;
+position:relative;}
